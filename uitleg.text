@@ -1,0 +1,13 @@
+Model
+View
+Controller
+
+een controller stuurt iets aan als hij een reqeust binnen krijgt
+view is HTML en CSS "het zichtbare deel in je applicatie"
+model praat met een DataBase
+
+Examen vraag: wat is het verschill tussen de applicatie laag, data laag en de presentatie laag?
+presentatie laag = view
+datalaag = model
+applicatie laag = controller
+
